@@ -18,3 +18,6 @@ If there are any errors, feel free to join my discord:
 https://discord.gg/NB6ycdE
 
 Thanks!
+
+PS: The RPC wont display, if you haven't set the Aplication id in the config file.
+Create your own Aplication here: https://discord.com/developers/applications
