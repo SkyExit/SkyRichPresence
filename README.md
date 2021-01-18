@@ -15,7 +15,8 @@ Installation and Usage:
 
 Wont work? Troubleshooting:
 1. Make sure you have installes Java SE 15: https://www.oracle.com/de/java/technologies/javase-downloads.html
-2. Make sure your JAVA_HOME Path is set to C:\Your\Java\Path\jdk-15 (not ..\bin)
+2. Make sure your JAVA_HOME Path (in your System variables) is set to C:\Your\Java\Path\jdk-15 (not ..\bin)
+3. Make sure your PATH (in your System variables)is set to C:\Your\Java\Path\jdk-15\bin
 
 ---------------------------------------------
 If there are any errors, feel free to join my discord:
