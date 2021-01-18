@@ -13,6 +13,10 @@ Installation and Usage:
 6. click "Update RPC"
 7. There you go
 
+Wont work? Troubleshooting:
+1. Make sure you have installes Java SE 15: https://www.oracle.com/de/java/technologies/javase-downloads.html
+2. Make sure your JAVA_HOME Path is set to C:\Your\Java\Path\jdk-15 (not ..\bin)
+
 ---------------------------------------------
 If there are any errors, feel free to join my discord:
 https://discord.gg/NB6ycdE
