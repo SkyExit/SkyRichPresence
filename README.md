@@ -8,6 +8,7 @@ Installation and Usage:
 1. Download the .zip file from the "Releases" tab
 2. Unzip
 3. Change the Application (appID) Id in the config.properties file
+3.1 You can get the 
 4. Start the SRP.jar file
 5. Edit there whatever you want
 6. click "Update RPC"
