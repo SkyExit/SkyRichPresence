@@ -1,7 +1,6 @@
 # SkyRichPresence
 An GUI Tool for your custom rich presence!
 ---------------------------------------------
-There are many tools that allow you to make your own rich presence. But SRP is (I think) the only GUI tool!
 
 Tutorial: https://youtu.be/Jl8nb9f_4gc
 
